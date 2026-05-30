@@ -1,5 +1,5 @@
 <div style="width:100%; height: 120px;">
-    <img src="https://i.pinimg.com/1200x/e2/24/b3/e224b3265b544110128b2bfe4274948f.jpg" alt="top-image" style="width: 100%; height: 400px; object-fit: cover;  object-position: center;">
+    <img src="https://i.pinimg.com/1200x/e2/24/b3/e224b3265b544110128b2bfe4274948f.jpg" alt="top-image" style="width: 100%; height: 600px; object-fit: cover;  object-position: center;">
 </div>  
 
 ##  Know more about me...
