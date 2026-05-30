@@ -14,7 +14,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="60%">
-      <img src="./terminal.svg" width="320" alt="Terminal">
+      <img src="./terminal.png" width="320" alt="Terminal">
       <p style="color: #1cff03; font-family: monospace; font-weight: 600; font-size: 14px; margin-top: 15px; line-height: 1.5;">
         I am 17 years old. In my free time I like to work on web projects. At this time I am studying Programming at Etec de Guaianazes. I started to think about solutions to solve daily issues.
       </p>
