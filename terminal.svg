@@ -1,18 +1,13 @@
 <!-- esse código foi gerado por mim, porem melhorado pela IA, o GitHub não aceita css. -->
 
 <svg viewBox="0 0 340 185" width="340" height="185" xmlns="http://w3.org">
-  <!-- FUNDO PRETO COM BORDAS ARREDONDADAS -->
   <rect width="340" height="185" rx="8" ry="8" fill="#000000" stroke="#1cff03" stroke-width="2"/>
-  
-  <!-- TEXTOS DO TERMINAL COM CORES CONFIGURADAS DIRETAMENTE -->
   <g font-family="monospace" font-size="13" font-weight="600" xml:space="preserve">
     <text x="18" y="32" fill="#1cff03">$ Hello my name is Eduardo...</text>
     <text x="18" y="60" fill="#1cff03">$ Back-end Developer</text>
     <text x="18" y="88" fill="#1cff03">$ Intermediate English</text>
     <text x="18" y="116" fill="#1cff03">$ Web Programmer</text>
-    
-    <!-- LINHA DE AVISO (WARNING) -->
-    <text x="18" y="146" fill="#c8ff03">👾 Warning !! <tspan fill="#ff0000">Scroll down to see more</tspan></text>
+    <text x="18" y="146" fill="#c8ff03">[!] Warning !!</text>
+    <text x="130" y="146" fill="#ff0000">Scroll down to see more</text>
   </g>
 </svg>
-
