@@ -17,10 +17,12 @@
       <img src="./terminal.png" width="320" alt="Terminal">
       <img src="./I am 17 years old. In my free time I like to work on web projects. At this time I am studying Programming at Etec de Guaianazes. I started to think about solutions to solve daily issues..png" width="320" alt="Terminal" style="margin-left: 2px;">
       <br>
-      <h3 style="color: #1cff03; font-family: monospace; font-size: 20px; margin-bottom: 5px;">Backend</h3>
-      <hr>
-
- [![My Skills](https://skillicons.dev/icons?i=mysql,laravel,java,php)](https://skillicons.dev)
+      <h3 style="color: #1cff03; font-family: monospace; font-size: 20px; margin-bottom: 5px;">Minhas Redes</h3>
+        <hr>
+        
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-viana-494831345/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.viana140@gmail.com)
+</div>
     </td>
     <td width="5%"></td>
     <td valign="top" width="35%" align="right">
@@ -29,7 +31,12 @@
   </tr>
 </table>
 
+<h3 style="color: #1cff03; font-family: monospace; font-size: 20px; margin-bottom: 5px;">Backend</h3>
+      <hr>
+
 <br>
+
+ [![My Skills](https://skillicons.dev/icons?i=mysql,laravel,java,php)](https://skillicons.dev)
 
 <h3 style="color: #1cff03; font-family: monospace; font-size: 20px; margin-bottom: 5px;">Frontend</h3>
 
@@ -37,7 +44,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 
-<br><br>
+<br>
 
 <h3 style="color: #1cff03; font-family: monospace; font-size: 20px; margin-bottom: 5px;">Ferramentas</h3>
 
